@@ -4,6 +4,6 @@ AutoPaint DLC for MECCHA CHAMELEON.
 
 ## Features
 
--Paint: Paint a player character with custom colors and materials.
--Image Paint: Paint imported images onto a player character.
--ESP: Show full player locations and information in game.
+- Paint: Paint a player character with custom colors and materials.
+- Image Paint: Paint imported images onto a player character.
+- ESP: Show full player locations and information in game.
