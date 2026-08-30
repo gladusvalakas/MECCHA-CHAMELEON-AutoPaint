@@ -9,3 +9,17 @@ AutoPaint DLC for MECCHA CHAMELEON.
 - Paint: Paint a player character with custom colors and materials.
 - Image Paint: Paint imported images onto a player character.
 - ESP: Show full player locations and information in game.
+
+## How to Setup
+
+1) Download the latest Mecca Hameleon AutoPaint from [GitHub Releases](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases/tag/v1.0.1).
+
+2) start mecchaAutoPaint.exe and follow instructions.
+
+## Usage
+
+1) Start MECCHA CHAMELEON.
+
+2) Start mecchaAutoPaint Shortcut
+
+3) Enjoy)
