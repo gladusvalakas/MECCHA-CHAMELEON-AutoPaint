@@ -1,25 +1,42 @@
-<img width="2752" height="1104" alt="image" src="https://github.com/user-attachments/assets/1db7d056-d549-4be8-b186-ad9a185d3aee" />
+<div align="center">
 
-# Mecca AutoPaint
+# 🦎 Mecca AutoPaint
 
-AutoPaint DLC for MECCHA CHAMELEON.
+**AutoPaint DLC for MECCHA CHAMELEON**
 
-## Features
+[![Release](https://img.shields.io/github/v/release/gladusvalakas/MECCHA-CHAMELEON-AutoPaint?style=flat-square)](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases/tag/v1.0.1)
+[![Downloads](https://img.shields.io/github/downloads/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/total?style=flat-square)](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases)
+[![License](https://img.shields.io/github/license/gladusvalakas/MECCHA-CHAMELEON-AutoPaint?style=flat-square)](LICENSE)
 
-- Paint: Paint a player character with custom colors and materials.
-- Image Paint: Paint imported images onto a player character.
-- ESP: Show full player locations and information in game.
+</div>
 
-## How to Setup
+---
 
-1) Download the latest Mecca Hameleon AutoPaint from [GitHub Releases](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases/tag/v1.0.1).
+## ✨ Features
 
-2) start mecchaAutoPaint.exe and follow instructions.
+| Feature | Description |
+|---|---|
+| 🎨 **Paint** | Paint a player character with custom colors and materials. |
+| 🖼️ **Image Paint** | Paint imported images onto a player character. |
+| 📍 **ESP** | Show full player locations and information in game. |
 
-## Usage
+---
 
-1) Start MECCHA CHAMELEON.
+## 🚀 Setup
 
-2) Start mecchaAutoPaint Shortcut
+1. Download the latest **Mecca AutoPaint** release from the [Releases page](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases/tag/v1.0.1).
+2. Run `mecchaAutoPaint.exe` and follow the on-screen instructions.
 
-3) Enjoy)
+## 🕹️ Usage
+
+1. Start **MECCHA CHAMELEON**.
+2. Launch the `mecchaAutoPaint` shortcut.
+3. Enjoy! 🎉
+
+---
+
+<div align="center">
+
+Made with 🦎 by [gladusvalakas](https://github.com/gladusvalakas) · [Report an Issue](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/issues) · [Releases](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases)
+
+</div>
