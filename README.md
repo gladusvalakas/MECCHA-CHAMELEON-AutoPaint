@@ -4,6 +4,9 @@
 
 **AutoPaint DLC for MECCHA CHAMELEON**
 
+<img width="2752" height="1104" alt="image" src="https://github.com/user-attachments/assets/c05bd8fc-7da4-4c19-9417-97a9c7968f3e" />
+
+
 [![Release](https://img.shields.io/github/v/release/gladusvalakas/MECCHA-CHAMELEON-AutoPaint?style=flat-square)](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases/tag/v1.0.1)
 [![Downloads](https://img.shields.io/github/downloads/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/total?style=flat-square)](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases)
 [![License](https://img.shields.io/github/license/gladusvalakas/MECCHA-CHAMELEON-AutoPaint?style=flat-square)](LICENSE)
