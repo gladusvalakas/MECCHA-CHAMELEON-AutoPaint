@@ -43,3 +43,28 @@
 Made with 🦎 by [gladusvalakas](https://github.com/gladusvalakas) · [Report an Issue](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/issues) · [Releases](https://github.com/gladusvalakas/MECCHA-CHAMELEON-AutoPaint/releases)
 
 </div>
+
+
+
+### Keywords (not for read)
+
+- meccha-chameleon
+- meccha-chameleon-mod
+- autopaint
+- auto-paint
+- paint-tool
+- image-paint
+- esp
+- player-esp
+- wallhack
+- game-mod
+- game-tool
+- steam
+- steam-game
+- hide-and-seek
+- chameleon
+- overlay
+- external
+- dlc
+- paint
+- camouflage
