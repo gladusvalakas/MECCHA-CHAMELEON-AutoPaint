@@ -1,0 +1,80 @@
+{
+	"configurations": [
+		{
+			"name": "x64-Debug",
+			"generator": "Ninja",
+			"configurationType": "Debug",
+			"inheritEnvironments": [ "msvc_x64_x64" ],
+			"buildRoot": "${projectDir}\\out\\build_tf2_bot_detector\\${name}",
+			"installRoot": "${projectDir}\\out\\install_tf2_bot_detector\\${name}",
+			"cmakeCommandArgs": "",
+			"buildCommandArgs": "",
+			"ctestCommandArgs": "",
+			"variables": [
+				{
+					"name": "TF2BD_ENABLE_TESTS",
+					"value": "True",
+					"type": "BOOL"
+				}
+			],
+			"cmakeToolchain": "submodules/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"name": "x64-Release",
+			"generator": "Ninja",
+			"configurationType": "Release",
+			"buildRoot": "${projectDir}\\out\\build_tf2_bot_detector\\${name}",
+			"installRoot": "${projectDir}\\out\\install_tf2_bot_detector\\${name}",
+			"cmakeCommandArgs": "",
+			"buildCommandArgs": "",
+			"ctestCommandArgs": "",
+			"inheritEnvironments": [ "msvc_x64_x64" ],
+			"variables": [
+				{
+					"name": "TF2BD_ENABLE_TESTS",
+					"value": "True",
+					"type": "BOOL"
+				}
+			],
+			"cmakeToolchain": "submodules/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"name": "x86-Release",
+			"generator": "Ninja",
+			"configurationType": "Release",
+			"buildRoot": "${projectDir}\\out\\build_tf2_bot_detector\\${name}",
+			"installRoot": "${projectDir}\\out\\install_tf2_bot_detector\\${name}",
+			"cmakeCommandArgs": "",
+			"buildCommandArgs": "",
+			"ctestCommandArgs": "",
+			"inheritEnvironments": [ "msvc_x86_x64" ],
+			"variables": [
+				{
+					"name": "TF2BD_ENABLE_TESTS",
+					"value": "True",
+					"type": "BOOL"
+				}
+			],
+			"cmakeToolchain": "submodules/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"name": "x86-Debug",
+			"generator": "Ninja",
+			"configurationType": "Debug",
+			"buildRoot": "${projectDir}\\out\\build_tf2_bot_detector\\${name}",
+			"installRoot": "${projectDir}\\out\\install_tf2_bot_detector\\${name}",
+			"cmakeCommandArgs": "",
+			"buildCommandArgs": "",
+			"ctestCommandArgs": "",
+			"inheritEnvironments": [ "msvc_x86_x64" ],
+			"variables": [
+				{
+					"name": "TF2BD_ENABLE_TESTS",
+					"value": "True",
+					"type": "BOOL"
+				}
+			],
+			"cmakeToolchain": "submodules/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		}
+	]
+}

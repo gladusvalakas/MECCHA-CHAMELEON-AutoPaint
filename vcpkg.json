@@ -1,0 +1,23 @@
+{
+	"name": "tf2-bot-detector",
+	"version-string": "",
+	"dependencies": [
+		"sdl2",
+		"cryptopp",
+		"libzippp",
+		"fmt",
+		{
+			"name": "discord-game-sdk",
+			"platform": "!static"
+		},
+		"stb",
+		"nlohmann-json",
+		"catch2",
+		"sqlitecpp",
+		{
+			"name": "cpprestsdk",
+			"features": [ "compression" ]
+		},
+		"zlib"
+	]
+}
